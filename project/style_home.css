@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(253, 254, 255);
+}
+
+.container {
+    justify-content: center;
+    justify-self: center;
+    align-items: center;
+    margin-left: 400px;
+    margin-top: 200px;
+}
+
+input {
+    width: 200px;
+    margin-left: 80px;
+}
+p{
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-right:10px;
+}
+.mainpage{ 
+    margin-left: 10%;
+    width:700px;
+    margin-top:18%;    
+    display: inline-flex;
+}
+.right-side {
+	margin-left:20px;
+	border: double;
+	height: 500px;
+}	
+    
